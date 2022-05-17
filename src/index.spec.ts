@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { greet } from "./index.js";
+import { greet } from "./index";
 
 describe("test", function () {
   it('should return "Hello ${name}"', function () {
