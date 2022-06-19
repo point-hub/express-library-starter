@@ -1,4 +1,4 @@
-import { greet } from "./index.js";
+import { greet } from "@src/index.js";
 
 describe("test", function () {
   it('should return "Hello ${name}"', function () {
