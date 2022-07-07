@@ -1,10 +1,10 @@
 # Express Library Starter
 
-This is a boilerplate for creating Express ESM-only module library - you are not able to import it with `require()`.
+> This is a boilerplate for creating Express ESM-only module library - you are not able to import it with `require()`.
 
 ## Feature
-- [Typescipt](https://www.typescriptlang.org/) for type checking
-- [Jest](https://jestjs.io/), [ts-jest](https://www.npmjs.com/package/ts-jest) for testing
+- [Typescipt](https://www.typescriptlang.org/) Type Checking
+- [Jest](https://jestjs.io/) Testing
 - [ESLint](https://eslint.org/) Code Linting
 - [Prettier](https://prettier.io/) Code Formatting
 
